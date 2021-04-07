@@ -9,3 +9,4 @@ function formatNumber(num) {
 const data = countries({country: 'slovakia'}).then(console.log)
    window.document.getElementById("casesOverall").innerHTML = "test"
 }, 1000)
+    
